@@ -1,0 +1,153 @@
+INSPECTION on 2019 MAY 31
+No medication in Pharmacy to inspect.
+
+INVEN: Printing the inventory for the first bottle in each row...
+No medication in Pharmacy.
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2020 DEC 15
+Successful stock of new bottle type: Lisinopril. Pills = 45. EXP: 2020 DEC 15
+
+INVEN: Printing the inventory for the first bottle in each row...
+Lisinopril. Pills = 45. EXP: 2020 DEC 15
+
+SCRIPT! Patient brought in a prescription on 2020 JUN 1 for 45 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle of Lisinopril not expired and has pills.
+Sufficient stock in front bottle. Currently have 45 Lisinopril. Dispersing 45 Lisinopril
+
+INVEN: Printing the inventory for the first bottle in each row...
+No medication in Pharmacy.
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2020 DEC 16
+Successful stock of new bottle type: Lisinopril. Pills = 45. EXP: 2020 DEC 16
+
+STOCK: Attempting to stock new bottle: Azithromycin. Pills = 45. EXP: 2020 DEC 31
+Successful stock of new bottle type: Azithromycin. Pills = 45. EXP: 2020 DEC 31
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 50. EXP: 2020 DEC 15
+Putting bottle in existing row of Lisinopril
+
+STOCK: Attempting to stock new bottle: Azithromycin. Pills = 50. EXP: 2020 JAN 1
+Putting bottle in existing row of Azithromycin
+
+STOCK: Attempting to stock new bottle: Rosuvastatin. Pills = 100. EXP: 2021 JAN 18
+Successful stock of new bottle type: Rosuvastatin. Pills = 100. EXP: 2021 JAN 18
+
+INVEN: Printing the inventory for the first bottle in each row...
+Azithromycin. Pills = 45. EXP: 2020 DEC 31
+Lisinopril. Pills = 45. EXP: 2020 DEC 16
+Rosuvastatin. Pills = 100. EXP: 2021 JAN 18
+
+INSPECTION on 2019 SEP 18
+Inspecting Azithromycin...
+Bottle in front of Azithromycin with EXP: 2020 DEC 31 passes inspection!!
+Inspecting Lisinopril...
+Bottle in front of Lisinopril with EXP: 2020 DEC 16 passes inspection!!
+Inspecting Rosuvastatin...
+Bottle in front of Rosuvastatin with EXP: 2021 JAN 18 passes inspection!!
+
+SCRIPT! Patient brought in a prescription on 2020 NOV 15 for 30 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle of Lisinopril not expired and has pills.
+Sufficient stock in front bottle. Currently have 45 Lisinopril. Dispersing 30 Lisinopril
+
+SCRIPT! Patient brought in a prescription on 2020 NOV 16 for 20 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle of Lisinopril not expired and has pills.
+Prescription Exceeds Number of Pills in Bottle. Can only dispense 15 pills from front bottle
+Front bottle of Lisinopril not expired and has pills.
+Sufficient stock in front bottle. Currently have 50 Lisinopril. Dispersing 5 Lisinopril
+
+SCRIPT! Patient brought in a prescription on 2020 NOV 16 for 100 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle of Lisinopril not expired and has pills.
+Prescription Exceeds Number of Pills in Bottle. Can only dispense 45 pills from front bottle
+The pharmacy is out of Lisinopril and the patient still needs 55
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2020 DEC 31
+Successful stock of new bottle type: Lisinopril. Pills = 45. EXP: 2020 DEC 31
+
+STOCK: Attempting to stock new bottle: Azithromycin. Pills = 45. EXP: 2020 JAN 2
+Putting bottle in existing row of Azithromycin
+
+INSPECTION on 2020 MAY 1
+Inspecting Azithromycin...
+Bottle in front of Azithromycin with EXP: 2020 DEC 31 passes inspection!!
+Inspecting Lisinopril...
+Bottle in front of Lisinopril with EXP: 2020 DEC 31 passes inspection!!
+Inspecting Rosuvastatin...
+Bottle in front of Rosuvastatin with EXP: 2021 JAN 18 passes inspection!!
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2021 JAN 1
+Putting bottle in existing row of Lisinopril
+
+INSPECTION on 2020 DEC 30
+Inspecting Azithromycin...
+Bottle in front of Azithromycin with EXP: 2020 DEC 31 passes inspection!!
+Inspecting Lisinopril...
+Bottle in front of Lisinopril with EXP: 2020 DEC 31 passes inspection!!
+Inspecting Rosuvastatin...
+Bottle in front of Rosuvastatin with EXP: 2021 JAN 18 passes inspection!!
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2021 JAN 31
+Putting bottle in existing row of Lisinopril
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 15. EXP: 2021 JAN 31
+Putting bottle in existing row of Lisinopril
+
+SCRIPT! Patient brought in a prescription on 2021 JAN 1 for 65 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle Lisinopril is expired as of 2020 DEC 31. Removed from row!
+Front bottle Lisinopril is expired as of 2021 JAN 1. Removed from row!
+Front bottle of Lisinopril not expired and has pills.
+Prescription Exceeds Number of Pills in Bottle. Can only dispense 45 pills from front bottle
+Front bottle of Lisinopril not expired and has pills.
+Prescription Exceeds Number of Pills in Bottle. Can only dispense 15 pills from front bottle
+The pharmacy is out of Lisinopril and the patient still needs 5
+
+INVEN: Printing the inventory for the first bottle in each row...
+Azithromycin. Pills = 45. EXP: 2020 DEC 31
+Rosuvastatin. Pills = 100. EXP: 2021 JAN 18
+
+INSPECTION on 2021 JAN 15
+Inspecting Azithromycin...
+The check date 2021 JAN 15 is the same day or after the initial date 2020 DEC 31
+Bottle in front of Azithromycin with EXP: 2020 DEC 31 is expired......Bottle in Front of Removed
+The check date 2021 JAN 15 is the same day or after the initial date 2020 JAN 1
+Bottle in front of Azithromycin with EXP: 2020 JAN 1 is expired......Bottle in Front of Removed
+The check date 2021 JAN 15 is the same day or after the initial date 2020 JAN 2
+Bottle in front of Azithromycin with EXP: 2020 JAN 2 is expired......Bottle in Front of Removed
+Row is now empty! No more bottles to inspect.
+Inspecting Rosuvastatin...
+Bottle in front of Rosuvastatin with EXP: 2021 JAN 18 passes inspection!!
+
+INSPECTION on 2021 FEB 1
+Inspecting Rosuvastatin...
+The check date 2021 FEB 1 is the same day or after the initial date 2021 JAN 18
+Bottle in front of Rosuvastatin with EXP: 2021 JAN 18 is expired......Bottle in Front of Removed
+Row is now empty! No more bottles to inspect.
+
+STOCK: Attempting to stock new bottle: Lisinopril. Pills = 45. EXP: 2022 JAN 31
+Successful stock of new bottle type: Lisinopril. Pills = 45. EXP: 2022 JAN 31
+
+SCRIPT! Patient brought in a prescription on 2021 FEB 2 for 30 Lisinopril
+The Pharmacy has Lisinoprilin stock!
+Front bottle of Lisinopril not expired and has pills.
+Sufficient stock in front bottle. Currently have 45 Lisinopril. Dispersing 30 Lisinopril
+
+INSPECTION on 2021 FEB 3
+Inspecting Lisinopril...
+Bottle in front of Lisinopril with EXP: 2022 JAN 31 passes inspection!!
+
+INVEN: Printing the inventory for the first bottle in each row...
+Lisinopril. Pills = 15. EXP: 2022 JAN 31
+
+STOCK: Attempting to stock new bottle: Azithromycin. Pills = 45. EXP: 2023 NOV 2
+Successful stock of new bottle type: Azithromycin. Pills = 45. EXP: 2023 NOV 2
+
+INVEN: Printing the inventory for the first bottle in each row...
+Azithromycin. Pills = 45. EXP: 2023 NOV 2
+Lisinopril. Pills = 15. EXP: 2022 JAN 31
+
+
+

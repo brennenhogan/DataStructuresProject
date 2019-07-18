@@ -1,0 +1,10 @@
+Bottle1: Azithromycin. Pills = 45. EXP: 2019 JAN 23
+Bottle2: Lisinopril. Pills = 45. EXP: 2019 JAN 23
+Bottle3: Azithromycin. Pills = 50. EXP: 2019 JAN 23
+Bottle1 < Bottle2
+Bottle2 > Bottle1
+Bottle2 > Bottle3
+Bottle1 != Bottle2
+Bottle2 != bottle1
+Bottle2 != Bottle3
+Bottle1 == Bottle3
